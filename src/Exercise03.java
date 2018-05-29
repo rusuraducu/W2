@@ -11,6 +11,7 @@ public class Exercise03 {
         int[] arr01 = {7,19, 22, 23, 24};
         int[] arr02 = {1, 3, 5, 10, 11};
         System.out.printf("The new sorted array is: ");
+        //Call the method written below.
         MergeTwoArrays(arr01, arr02);
     }
 
