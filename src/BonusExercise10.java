@@ -18,7 +18,7 @@ public class BonusExercise10 {
         System.out.println(binaryNumberString + " in base 10 is " + decimalNumber + ".");
     }
 
-    // Turn a binary number into decimal number.
+    // Turn a binary number into a decimal number.
 
     private static int baseTwoToTen(String binaryNumberString) {
         char[] binaryNumberChar = binaryNumberString.toCharArray();
